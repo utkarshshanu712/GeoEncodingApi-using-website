@@ -18,4 +18,4 @@ Geocoding-API-repositories.
 
 ### Example Request
 ```sh
-curl 'https://geo-api-61zy.onrender.com/find-state?lat=28.6139&long=77.2090'
+curl 'https://geo.geocodingapi.workers.dev/find-state?lat=28.6139&long=77.2090'
